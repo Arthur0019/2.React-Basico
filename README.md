@@ -7,6 +7,9 @@
 
 ### Venha comigo nessa e vamos Aprender a Programar em React ! :shipit:
 
+## Nesse Repositórios iremos aprender a como produzir um sistema básico de aplicação de agenda!
+
+## Com nome de Lembrete e tempo de Duração, excluir e marcar como executada.
 
 > [!NOTE]
 > Neste Repositório somente executei funcões básicas de criação de uma aplicação React.
